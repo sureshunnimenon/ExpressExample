@@ -1,0 +1,20 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Exercise in Udemy",
+  "main": "exerciseApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercise",
+    "udemy",
+    "express",
+    "route"
+  ],
+  "author": "suresh naloor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
